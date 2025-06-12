@@ -1,6 +1,6 @@
 import java.util.Arrays;
 /**
- * The {@code Person} class represents a person with basic personal information, such as name, birthday, social security number, and siblings.
+ * The Person class represents a person with basic personal information, such as name, birthday, social security number, and siblings.
  * This class provides methods to retrieve and modify personal information, as well as to manage sibling relationships.
  * @author Kelly Fu
  * @version 17.0.1
