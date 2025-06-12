@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 public class Person {
 
-    // All instance variables are private as required
+    
     private String firstname;
     private String lastname;
     private int birthDay;
